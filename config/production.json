@@ -1,0 +1,6 @@
+{
+    "name":"my node app - prod",
+    "mailserver":{
+        "host":"prod-mailserver.company"
+     }
+}
